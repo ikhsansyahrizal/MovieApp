@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.example.movieapp.ui.feature.home.FragmentHome"
+        android:label="fragment_fragment_home"
+        tools:layout="@layout/fragment_fragment_home" />
+    <fragment
+        android:id="@+id/fragmentDiscover"
+        android:name="com.example.movieapp.ui.feature.discover.FragmentDiscover"
+        android:label="Discover Newest Best Rating Movie"
+        tools:layout="@layout/fragment_fragment_discover" />
+    <fragment
+        android:id="@+id/fragmentCollection"
+        android:name="com.example.movieapp.ui.feature.colllection.FragmentCollection"
+        android:label="fragment_fragment_collection"
+        tools:layout="@layout/fragment_fragment_collection" />
+</navigation>
