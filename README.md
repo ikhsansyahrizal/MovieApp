@@ -7,13 +7,12 @@ implementing : MVVM and Single Activity
 
 ##Preview
 
-Home : 
-![image](https://github.com/ikhsansyahrizal/MovieApp/assets/72852911/1a05f8a2-aca9-4cf6-b550-019cf1b857fc)
+Home: 
+![image](https://github.com/ikhsansyahrizal/MovieApp/assets/72852911/1a05f8a2-aca9-4cf6-b550-019cf1b857fc){:width="200px"}
 
+Discover: 
+![image](https://github.com/ikhsansyahrizal/MovieApp/assets/72852911/9ff4b5f8-80d4-4f46-8982-954afa256ff3){:width="200px"}
 
-Discover : 
-![image](https://github.com/ikhsansyahrizal/MovieApp/assets/72852911/9ff4b5f8-80d4-4f46-8982-954afa256ff3)
+Popular Genre: 
+![image](https://github.com/ikhsansyahrizal/MovieApp/assets/72852911/17ead31b-3f55-41e4-9ae0-644fdab254c2){:width="200px"}
 
-
-Popular Genre : 
-![image](https://github.com/ikhsansyahrizal/MovieApp/assets/72852911/17ead31b-3f55-41e4-9ae0-644fdab254c2)
